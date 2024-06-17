@@ -98,7 +98,7 @@
   "dependencies": {
     "@ethersproject/abi": "^5.1.2",
     "@metamask/eth-sig-util": "^4.0.0",
-    "@nomicfoundation/ethereumjs-block": "5.0.2",
+    "@nomicfoundation/ethereumjs-block": "5.0.4",
     "@nomicfoundation/ethereumjs-blockchain": "7.0.2",
     "@nomicfoundation/ethereumjs-common": "4.0.2",
     "@nomicfoundation/ethereumjs-evm": "2.0.2",
@@ -107,7 +107,7 @@
     "@nomicfoundation/ethereumjs-trie": "6.0.2",
     "@nomicfoundation/ethereumjs-tx": "5.0.2",
     "@nomicfoundation/ethereumjs-util": "9.0.2",
-    "@nomicfoundation/ethereumjs-vm": "7.0.2",
+    "@nomicfoundation/ethereumjs-vm": "7.0.4",
     "@nomicfoundation/solidity-analyzer": "^0.1.0",
     "@sentry/node": "^5.18.1",
     "@types/bn.js": "^5.1.0",
@@ -143,7 +143,7 @@
     "tsort": "0.0.1",
     "undici": "^5.14.0",
     "uuid": "^8.3.2",
-    "ws": "^7.4.6"
+    "ws": "^8.17.1"
   },
   "peerDependencies": {
     "ts-node": "*",
